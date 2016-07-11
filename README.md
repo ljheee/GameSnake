@@ -1,2 +1,2 @@
 # GameSnake
-GameSnake
+GameSnake demo.
